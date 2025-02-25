@@ -16,12 +16,12 @@
 Создание нового пользователя cryptouser.
 
 
-![new_disk](1.png)
+![new_disk](img/1.png)
 
 
 Зашифрованый каталог пользователя
 
-![new_disk](2.png)
+![new_disk](img/2.png)
 
 ### Задание 2
 
@@ -34,10 +34,10 @@
 
 ### Ответ
 
-![new_disk](3.png)
+![new_disk](img/3.png)
 
 
-![new_disk](4.png)
+![new_disk](img/4.png)
 
 
 ## Дополнительные задания (со звёздочкой*)
